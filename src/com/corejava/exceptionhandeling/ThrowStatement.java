@@ -9,7 +9,7 @@ public class ThrowStatement {
 	}
 
 	public static void main(String args[]) {
-		validate(13);
+		validate(14);
 		System.out.println("rest of the code...");
 	}
 
